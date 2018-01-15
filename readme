@@ -1,0 +1,26 @@
+convertTosql.py 该脚本是将得到的三个表格变成sql插入语句的形式,方便更新数据库
+用法:参数  -i  输入的csv表格名字
+           -s 保存的文件
+           -t  表格的类型,可选sequences,hitProtein,interaction
+
+如:python convertTosql.py -i sequences2018-01-14.csv -s sequnces.sql -t sequences
+
+
+interactionPaser.py 文件:
+解析 spacer文件与phagedb做blast 后的asn文件,
+形成相应的表格代表其interaction关系
+
+生成文件有三个:
+hitproteins*.csv  interation*.csv  sequences*.csv   *代表了脚本运行的时间
+
+interaction表含义: (`bacteria_id`, `bacteria_name`, `specie`, \
+`genus`, `phage_id`, `phage_name`, `spacer_id`, `missmatch`, `phage_position`, `flag`   )
+phage_position 是匹配部分在phage基因组中的位置
+flag 为1/0     1代表其匹配的基因段在phage中参与编码区域,编码哪个protein在  hitprotein表中有,
+                0 代表不参与编码区域
+
+hitproteins表信息:`bac_id`, `phage_id`, `spacer_id`, `protein_id`, `protein_position`, `protein_product`, `protein_sequence
+其中bac-id,phage-id,spacer-id 三者共同代表了一个Hit 序列,这个hit序列在phage中参与编码,其蛋白质信息protein_id`, `protein_position`, `protein_product`, `protein_sequence
+
+
+
