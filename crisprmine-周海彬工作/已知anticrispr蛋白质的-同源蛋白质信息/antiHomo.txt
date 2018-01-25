@@ -1,0 +1,1028 @@
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+AFQ21949.1-gb-JX434032.1-[Pseudomonas phage JBD30]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+ERX38869.1-gb-AXRE01000008.1-[Pseudomonas aeruginosa 6077]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+EZO98398.1-gb-JIEX01000006.1-[Pseudomonas aeruginosa BWH053]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSE07813.1-gb-LLML01000059.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSG83018.1-gb-LLNT01000178.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSH38964.1-gb-LLOF01000119.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSN12574.1-gb-LLSC01000062.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+AMD42585.1-gb-KU199708.1-[Pseudomonas phage JBD69]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+OKR74533.1-gb-MPVB01000094.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+OKS39897.1-gb-MPVK01000061.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSR54145.1-gb-LLUS01000060.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSS14022.1-gb-LLVH01000075.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSS62575.1-gb-LLVJ01000082.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+KSS68840.1-gb-LLVO01000055.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+OFB90125.1-gb-LZQH01000015.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+OFC26019.1-gb-LZTO01000032.1-[Pseudomonas aeruginosa]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+AFE86461.1-gb-JQ762257.1-[Pseudomonas phage MP42]
+>
+YP_007392342.1 hypothetical protein JBD30_035 [Pseudomonas phage JBD30]
+|||||||||
+EIK54721.1-gb-AJXE01000001.1-[Pseudomonas stutzeri TS44]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AEY99442.1-gb-JN811560.1-[Pseudomonas phage JBD26]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AFQ21892.1-gb-JX434031.1-[Pseudomonas phage JBD24]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+ERV64580.1-gb-AXPW01000022.1-[Pseudomonas aeruginosa BL04]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+ERV66804.1-gb-AXPW01000020.1-[Pseudomonas aeruginosa BL04]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+ERY33917.1-gb-AXPO01000022.1-[Pseudomonas aeruginosa BL12]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+ERY63702.1-gb-AXPY01000001.1-[Pseudomonas aeruginosa BL02]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+ETD49508.1-gb-AZHU01000081.1-[Pseudomonas aeruginosa VRFPA08]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+EZO15540.1-gb-JIEK01000038.1-[Pseudomonas aeruginosa 3576]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+EZO28486.1-gb-JIEM01000025.1-[Pseudomonas aeruginosa 3574]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AII21870.1-gb-JQ067085.2-[Pseudomonas phage PaMx73]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSD20495.1-gb-LLLV01000013.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSD37344.1-gb-LLLS01000033.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSE14710.1-gb-LLMN01000047.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSG29776.1-gb-LLNL01000082.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSH28234.1-gb-LLOE01000055.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSI66091.1-gb-LLPF01000144.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSJ60655.1-gb-LLPK01000059.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSK05251.1-gb-LLPS01000104.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSM29035.1-gb-LLRJ01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSM29748.1-gb-LLRQ01000074.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSO40089.1-gb-LLSY01000030.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSO45466.1-gb-LLSZ01000087.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSQ05967.1-gb-LLTS01000096.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSQ50359.1-gb-LLTQ01000104.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSS88393.1-gb-LLVN01000105.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXC86924.1-gb-LRYO01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXC87470.1-gb-LRYQ01000029.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXC90779.1-gb-LRYP01000033.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXD00357.1-gb-LRYS01000030.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXD05610.1-gb-LRYT01000028.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXE92757.1-gb-LRZY01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXE96684.1-gb-LRZZ01000005.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF05726.1-gb-LSAA01000015.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF06655.1-gb-LSAB01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF11563.1-gb-LSAC01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF13269.1-gb-LSAD01000044.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF25259.1-gb-LSAF01000040.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KXF27011.1-gb-LSAE01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KYO84392.1-gb-LOHH01000002.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AON70335.1-gb-CP017099.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AON72761.1-gb-CP017099.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+OFB99076.1-gb-LZQI01000019.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+OFM06044.1-gb-LTIA01000013.1-[Pseudomonas sp. HMSC064G05]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+OFM81482.1-gb-LTJC01000028.1-[Pseudomonas sp. HMSC058C05]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+OKS11519.1-gb-MPVF01000089.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSN14571.1-gb-LLSA01000006.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+OFU97798.1-gb-LUAB01000123.1-[Pseudomonas sp. HMSC11A05]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+AKE67932.1-gb-CP011317.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KRV15930.1-gb-LJZJ01000083.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSQ64856.1-gb-LLTY01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSQ81336.1-gb-LLUJ01000101.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSS78911.1-gb-LLVI01000134.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KSS80377.1-gb-LLVL01000121.1-[Pseudomonas aeruginosa]
+>
+YP_007392799.1 hypothetical protein JBD24_036 [Pseudomonas phage JBD24]
+|||||||||
+KTF54379.1-gb-LODN01000002.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ABH09854.1-gb-DQ873690.1-[Pseudomonas phage MP22]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AEY99407.1-gb-JN808773.1-[Pseudomonas phage FHA0480]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AFQ22003.1-gb-JX434033.1-[Pseudomonas phage JBD88a]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ERY47952.1-gb-AXPX01000022.1-[Pseudomonas aeruginosa BL03]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ERY51781.1-gb-AXPX01000020.1-[Pseudomonas aeruginosa BL03]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI07521.1-gb-LLOU01000026.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI45441.1-gb-LLOW01000115.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSN64403.1-gb-LLSI01000031.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSR04680.1-gb-LLUE01000058.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ALY63315.1-gb-CP008861.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ALY63558.1-gb-CP008861.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AMD42527.1-gb-KU199707.1-[Pseudomonas phage JBD16C]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSH44353.1-gb-LLOF01000077.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSP03128.1-gb-LLTE01000023.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSQ82390.1-gb-LLTZ01000040.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EOQ77283.1-gb-AQHM01000165.1-[Pseudomonas aeruginosa VRFPA02]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ESZ80713.1-gb-AYON01000160.1-[Pseudomonas aeruginosa DHS29]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ETV11109.1-gb-AZZI01000016.1-[Pseudomonas aeruginosa BWHPSA045]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZN85666.1-gb-JIEF01000026.1-[Pseudomonas aeruginosa 3581]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZN88367.1-gb-JIEG01000012.1-[Pseudomonas aeruginosa 3580]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZO70538.1-gb-JIER01000002.1-[Pseudomonas aeruginosa BWH059]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KRU61456.1-gb-LJYZ01000109.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSB93740.1-gb-LLKX01000077.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSD51006.1-gb-LLLW01000047.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSH14502.1-gb-LLNX01000006.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI22474.1-gb-LLOR01000105.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI50074.1-gb-LLOW01000073.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSJ06288.1-gb-LLPC01000058.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSJ11034.1-gb-LLPG01000043.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSJ95221.1-gb-LLQB01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSK62849.1-gb-LLQL01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSL21971.1-gb-LLQQ01000013.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSL78943.1-gb-LLQW01000035.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSN99172.1-gb-LLSH01000041.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSP40105.1-gb-LLTJ01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KST04941.1-gb-LLVQ01000100.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KUI87668.1-gb-LNBU01000018.1-[Pseudomonas aeruginosa 0C2E]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ALY75510.1-gb-CP008863.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AMA35460.1-gb-CP013993.1-[Pseudomonas aeruginosa DHS01]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AMD42639.1-gb-KU199709.1-[Pseudomonas phage JBD93]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KJC15033.1-gb-JYGC02000015.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKR65544.1-gb-MPUX01000025.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKR81684.1-gb-MPVB01000032.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSO81735.1-gb-LLSN01000006.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSR23771.1-gb-LLUQ01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSS52693.1-gb-LLVA01000017.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ERW09435.1-gb-AXQE01000005.1-[Pseudomonas aeruginosa BWHPSA024]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZN51258.1-gb-JIDY01000002.1-[Pseudomonas aeruginosa BWH036]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSG51341.1-gb-LLNS01000033.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSG46518.1-gb-LLNU01000102.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKO09751.1-gb-MPBN01000002.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKS40117.1-gb-MPVI01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHC64219.1-gb-CP006937.1-[Pseudomonas aeruginosa LES431]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHK82516.1-gb-CP006980.1-[Pseudomonas aeruginosa LESlike5]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHK88418.1-gb-CP006981.1-[Pseudomonas aeruginosa LESlike7]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHK94338.1-gb-CP006982.1-[Pseudomonas aeruginosa LES400]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHL00361.1-gb-CP006983.1-[Pseudomonas aeruginosa LESB65]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHL06313.1-gb-CP006984.1-[Pseudomonas aeruginosa LESlike1]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AHL12243.1-gb-CP006985.1-[Pseudomonas aeruginosa LESlike4]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSH06981.1-gb-LLOD01000064.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OFB81546.1-gb-LZQF01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI07325.1-gb-LLOP01000055.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OFC22088.1-gb-LZTN01000017.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EKA57093.1-gb-AKZH01000026.1-[Pseudomonas aeruginosa E2]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ERX65073.1-gb-AXRR01000018.1-[Pseudomonas aeruginosa E2]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSB98958.1-gb-LLKW01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSO16605.1-gb-LLSL01000019.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSO38940.1-gb-LLSK01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZO40732.1-gb-JIEP01000021.1-[Pseudomonas aeruginosa PS75]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSP76925.1-gb-LLTN01000059.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AFQ21832.1-gb-JX434030.1-[Pseudomonas phage JBD5]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+EZO83753.1-gb-JIEW01000040.1-[Pseudomonas aeruginosa BWH054]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSD51021.1-gb-LLLW01000046.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSJ06501.1-gb-LLPC01000057.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KTK51907.1-gb-LORM01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AGZ17224.1-gb-KF475786.1-[Pseudomonas phage MP48]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ALP47968.1-gb-KT968832.1-[Pseudomonas phage YMC11/11/R1836]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSH94284.1-gb-LLOS01000022.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSG56393.1-gb-LLNP01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSG84398.1-gb-LLNR01000067.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSH71026.1-gb-LLOM01000058.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI24583.1-gb-LLOR01000085.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSQ66228.1-gb-LLTY01000012.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKR79364.1-gb-MPVA01000091.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSD50038.1-gb-LLMC01000094.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSD89785.1-gb-LLMD01000111.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSF60664.1-gb-LLMW01000049.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSE60412.1-gb-LLMS01000028.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+OKR70131.1-gb-MPUZ01000070.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KKJ55122.1-gb-LBIH01000003.1-[Pseudomonas aeruginosa MRSN 317]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSF93361.1-gb-LLND01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSD16890.1-gb-LLLP01000031.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+AOX40049.1-gb-CP015003.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSC12365.1-gb-LLLC01000070.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSC12356.1-gb-LLLC01000076.1-[Pseudomonas aeruginosa]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+ERY99873.1-gb-AXQV01000028.1-[Pseudomonas aeruginosa BWHPSA007]
+>
+YP_007392440.1 hypothetical protein JBD88a_033 [Pseudomonas phage JBD88a]
+|||||||||
+KSI48201.1-gb-LLOW01000087.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AFQ21832.1-gb-JX434030.1-[Pseudomonas phage JBD5]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EZO83753.1-gb-JIEW01000040.1-[Pseudomonas aeruginosa BWH054]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AGZ17224.1-gb-KF475786.1-[Pseudomonas phage MP48]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ALP47968.1-gb-KT968832.1-[Pseudomonas phage YMC11/11/R1836]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSH94284.1-gb-LLOS01000022.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KKJ55122.1-gb-LBIH01000003.1-[Pseudomonas aeruginosa MRSN 317]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AOX40049.1-gb-CP015003.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSE60412.1-gb-LLMS01000028.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSD16890.1-gb-LLLP01000031.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EZO40732.1-gb-JIEP01000021.1-[Pseudomonas aeruginosa PS75]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSP76925.1-gb-LLTN01000059.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHC64219.1-gb-CP006937.1-[Pseudomonas aeruginosa LES431]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHK82516.1-gb-CP006980.1-[Pseudomonas aeruginosa LESlike5]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHK88418.1-gb-CP006981.1-[Pseudomonas aeruginosa LESlike7]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHK94338.1-gb-CP006982.1-[Pseudomonas aeruginosa LES400]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHL00361.1-gb-CP006983.1-[Pseudomonas aeruginosa LESB65]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHL06313.1-gb-CP006984.1-[Pseudomonas aeruginosa LESlike1]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AHL12243.1-gb-CP006985.1-[Pseudomonas aeruginosa LESlike4]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSH06981.1-gb-LLOD01000064.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OFB81546.1-gb-LZQF01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSD51021.1-gb-LLLW01000046.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSJ06501.1-gb-LLPC01000057.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KTK51907.1-gb-LORM01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSF93361.1-gb-LLND01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSI07325.1-gb-LLOP01000055.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OFC22088.1-gb-LZTN01000017.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSD50038.1-gb-LLMC01000094.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSD89785.1-gb-LLMD01000111.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSF60664.1-gb-LLMW01000049.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSG56393.1-gb-LLNP01000001.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSG84398.1-gb-LLNR01000067.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSH71026.1-gb-LLOM01000058.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSI24583.1-gb-LLOR01000085.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSQ66228.1-gb-LLTY01000012.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKR79364.1-gb-MPVA01000091.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EKA57093.1-gb-AKZH01000026.1-[Pseudomonas aeruginosa E2]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ERX65073.1-gb-AXRR01000018.1-[Pseudomonas aeruginosa E2]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSB98958.1-gb-LLKW01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSR23771.1-gb-LLUQ01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSG46518.1-gb-LLNU01000102.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKO09751.1-gb-MPBN01000002.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKS40117.1-gb-MPVI01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KJC15033.1-gb-JYGC02000015.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKR65544.1-gb-MPUX01000025.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKR81684.1-gb-MPVB01000032.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+OKR70131.1-gb-MPUZ01000070.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EOQ77283.1-gb-AQHM01000165.1-[Pseudomonas aeruginosa VRFPA02]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ESZ80713.1-gb-AYON01000160.1-[Pseudomonas aeruginosa DHS29]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ETV11109.1-gb-AZZI01000016.1-[Pseudomonas aeruginosa BWHPSA045]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EZN85666.1-gb-JIEF01000026.1-[Pseudomonas aeruginosa 3581]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EZN88367.1-gb-JIEG01000012.1-[Pseudomonas aeruginosa 3580]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+EZO70538.1-gb-JIER01000002.1-[Pseudomonas aeruginosa BWH059]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KRU61456.1-gb-LJYZ01000109.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSB93740.1-gb-LLKX01000077.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSD51006.1-gb-LLLW01000047.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSH14502.1-gb-LLNX01000006.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSI22474.1-gb-LLOR01000105.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSI50074.1-gb-LLOW01000073.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSJ06288.1-gb-LLPC01000058.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSJ11034.1-gb-LLPG01000043.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSJ95221.1-gb-LLQB01000007.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSK62849.1-gb-LLQL01000011.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSL21971.1-gb-LLQQ01000013.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSL78943.1-gb-LLQW01000035.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSN99172.1-gb-LLSH01000041.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSP40105.1-gb-LLTJ01000020.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KST04941.1-gb-LLVQ01000100.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KUI87668.1-gb-LNBU01000018.1-[Pseudomonas aeruginosa 0C2E]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ALY75510.1-gb-CP008863.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AMA35460.1-gb-CP013993.1-[Pseudomonas aeruginosa DHS01]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AMD42639.1-gb-KU199709.1-[Pseudomonas phage JBD93]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSC12365.1-gb-LLLC01000070.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSP03128.1-gb-LLTE01000023.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSQ82390.1-gb-LLTZ01000040.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSS52693.1-gb-LLVA01000017.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSG51341.1-gb-LLNS01000033.1-[Pseudomonas aeruginosa]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ABH09854.1-gb-DQ873690.1-[Pseudomonas phage MP22]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AEY99407.1-gb-JN808773.1-[Pseudomonas phage FHA0480]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+AFQ22003.1-gb-JX434033.1-[Pseudomonas phage JBD88a]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ERY47952.1-gb-AXPX01000022.1-[Pseudomonas aeruginosa BL03]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+ERY51781.1-gb-AXPX01000020.1-[Pseudomonas aeruginosa BL03]
+>
+YP_007392739.1 hypothetical protein JBD5_035 [Pseudomonas phage JBD5]
+|||||||||
+KSI07521.1-gb-LLOU01000026.1-[Pseudomonas aeruginosa]
+Traceback (most recent call last):
+  File "anticrispr.py", line 107, in <module>
+    paser('anticrispr.xml')
+  File "anticrispr.py", line 42, in paser
+    a.getGeneId()
+  File "anticrispr.py", line 63, in getGeneId
+    handle=Entrez.efetch(db='protein',id=self.proteinId,rettype='gb',retmode='text')
+  File "/home/admin01/.local/lib/python2.7/site-packages/Bio/Entrez/__init__.py", line 180, in efetch
+    return _open(cgi, variables, post=post)
+  File "/home/admin01/.local/lib/python2.7/site-packages/Bio/Entrez/__init__.py", line 524, in _open
+    handle = _urlopen(cgi)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/usr/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+urllib2.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>

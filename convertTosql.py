@@ -38,7 +38,6 @@ def converHitProteinTable(filename,savefilename):
     for line in lines[1:]:
         line = line[:len(line)-1]
         elements = line.split(';')
-        print(line,elements)
         bac_id = elements[0]
         phage_id = elements[1]
         spacer_id = elements[2]

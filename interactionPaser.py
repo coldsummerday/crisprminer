@@ -196,12 +196,16 @@ class phageProtein(object):
         self.seq = seq
 
     def parserLocation(self):
-	try:
+
+        ##except是类似这种情况[<200:1000]发生
+        try:
             start = int(self.location.split(':')[0].split('[')[1])
+        except:
+            start = int(self.location.split(':')[0].split('[')[1][1:])
+        try:
             end = int(self.location.split(':')[1].split(']')[0])
-	except:
-	    start = 0
-	    end = 10
+        except:
+            end = int(self.location.split(':')[1].split(']')[0][1:])
         self.order = self.location.split('(')[1].split(')')[0]
         if start > end:
             temp = start
